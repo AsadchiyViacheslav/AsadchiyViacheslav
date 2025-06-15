@@ -101,22 +101,20 @@ Software Developer 👨‍💻
   </tr>
 </table>
 
+---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<h2>☄️ Contact me</h2>
 
-  <div style="flex: 1;">
-    <h2>☄️ Contact me</h2>
-
-    <ul>
-      <li>✈️ &nbsp;<a href="https://t.me/salabeey"><strong>Telegram</strong></a></li>
-      <li>🐦 &nbsp;<a href="https://vk.com/sim.salabey"><strong>VK</strong></a></li>
-      <li>☄️ &nbsp;<a href="https://github.com/AsadchiyViacheslav"><strong>GitHub</strong></a></li>
-      <li>🧪 &nbsp;<a href="https://www.kaggle.com/viacheslavasadchiy"><strong>Kaggle</strong></a></li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; text-align: right;">
-    <img src="assets/gif2.gif" width="300px" alt="gif" />
-  </div>
-
-</div>
+<table width='100%'>
+  <tr>
+    <td>
+      <p>✈️ &nbsp;<a href="https://t.me/salabeey"><strong>Telegram</strong></a></p>
+      <p>🐦 &nbsp;<a href="https://vk.com/sim.salabey"><strong>VK</strong></a></p>
+      <p>☄️ &nbsp;<a href="https://github.com/AsadchiyViacheslav"><strong>GitHub</strong></a></p>
+      <p>🧪 &nbsp;<a href="https://www.kaggle.com/viacheslavasadchiy"><strong>Kaggle</strong></a></p>
+    </td>
+    <td align="right">
+      <img src="assets/gif2.gif" width="200px" alt="contact-gif" />
+    </td>
+  </tr>
+</table>
