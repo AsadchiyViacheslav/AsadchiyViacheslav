@@ -1,16 +1,120 @@
-## Hi there 👋
+<h1 align="center">🙋‍♂️ Hello! I'm Viacheslav Asadchiy 🙋‍♂️</h1>
 
-<!--
-**AsadchiyViacheslav/AsadchiyViacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer 👨‍💻
+
+- 🎓 &nbsp;Currently studying **Software Engineering** at [**TUSUR**](https://tusur.ru/ru), Tomsk (Bachelor)
+
+- 🧠 &nbsp;Focusing on **Data Science**, **Backend Development**, and building solid engineering skills
+
+- 📊 &nbsp;Strong background in **mathematics** and **probability theory**
+
+- 🌱 &nbsp;Passionate about **learning**, constantly exploring new technologies and concepts
+
+<br>
+
+
+<h2 align="left" id="slava-stack">🔥 Tech stack</h2>
+
+> Languages & General Tools
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+
+> Data Science & ML
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://repository-images.githubusercontent.com/183751866/f4cd9980-68f2-11e9-96c9-98180d327243" width="36" height="36" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="36" height="36" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+  </tr>
+</table>
+
+
+> Databases & Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://user-images.githubusercontent.com/1393562/190876570-16dff98d-ccea-4a57-86ef-a161539074d6.svg" width="36" height="36" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+  </tr>
+</table>
+
+
+## ☄️ Contact me
+
+
+- ✈️ &nbsp;**[Telegram](https://t.me/salabeey)**
+
+- 🐦 &nbsp;**[VK](https://vk.com/sim.salabey)**
+
+- ☄️ &nbsp;**[Github](https://github.com/AsadchiyViacheslav)**
+
+- 🧪 &nbsp;**[Kaggle](https://www.kaggle.com/viacheslavasadchiy)**
+
+<br>
+
+<div align="center">
+  <img src="assets/gif.gif" width="65%">
+</div>
