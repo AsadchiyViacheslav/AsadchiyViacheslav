@@ -111,6 +111,3 @@ Software Developer 👨‍💻
   <p>☄️ &nbsp;<a href="https://github.com/AsadchiyViacheslav"><strong>GitHub</strong></a></p>
   <p>🧪 &nbsp;<a href="https://www.kaggle.com/viacheslavasadchiy"><strong>Kaggle</strong></a></p>
     
-<td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="contact-gif" />
-</td>
