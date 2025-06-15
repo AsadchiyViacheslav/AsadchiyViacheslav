@@ -105,17 +105,16 @@ Software Developer 👨‍💻
 
 <h2>☄️ Contact me</h2>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width='100%'>
   <tr>
-    <td valign="top">
+    <td>
       <p>✈️ &nbsp;<a href="https://t.me/salabeey"><strong>Telegram</strong></a></p>
       <p>🐦 &nbsp;<a href="https://vk.com/sim.salabey"><strong>VK</strong></a></p>
       <p>☄️ &nbsp;<a href="https://github.com/AsadchiyViacheslav"><strong>GitHub</strong></a></p>
       <p>🧪 &nbsp;<a href="https://www.kaggle.com/viacheslavasadchiy"><strong>Kaggle</strong></a></p>
     </td>
-    <td valign="top" align="right">
+    <td align="right" style="padding-left: 200px;>
       <img src="assets/gif2.gif" width="200px" alt="contact-gif" />
     </td>
   </tr>
 </table>
-
