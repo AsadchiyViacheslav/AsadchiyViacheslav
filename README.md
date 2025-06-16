@@ -1,6 +1,6 @@
 <div align="center">
    <h1 align="center">🙋‍♂️ Hello! I'm Viacheslav Asadchiy 🙋‍♂️</h1>
-</div> я хочу вместо смайликов поставить gif 
+</div>
 
 
 <br>
