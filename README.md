@@ -1,15 +1,21 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <h1 align="center">🙋‍♂️ Hello! I'm Viacheslav Asadchiy 🙋‍♂️</h1>
 
 
 <br>
 
-Software Developer 👨‍💻
+<a target="_blank" align="center">
+  <img align="right" top = '100' height="200" width="180" alt="GIF" src="gif.gif">
+</a>
+
+AI & Software Developer 👨‍💻
 
 - 🎓 &nbsp;Currently studying **Software Engineering** at [**TUSUR**](https://tusur.ru/ru), Tomsk (Bachelor)
 
 - 🧠 &nbsp;Focusing on **Data Science**, **Backend Development**, and building solid engineering skills
-
-- 📊 &nbsp;Strong background in **mathematics** and **probability theory**
 
 - 🌱 &nbsp;Passionate about **learning**, constantly exploring new technologies and concepts
 
