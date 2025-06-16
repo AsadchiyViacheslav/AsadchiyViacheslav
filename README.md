@@ -1,7 +1,11 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-   <h1 align="center">🙋‍♂️ Hello! I'm Viacheslav Asadchiy 🙋‍♂️</h1>
+   <h1 align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Hello GIF" style="width:30px; vertical-align:middle;">
+      Hello! I'm Viacheslav Asadchiy
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Hello GIF" style="width:30px; vertical-align:middle;">
+   </h1>
 </div>
+
 <br>
 
 AI & Software Developer 👨‍💻
