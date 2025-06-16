@@ -8,7 +8,7 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top = '100' height="200" width="180" alt="GIF" src="gif.gif">
+  <img align="right" top = '300' height="200" width="180" alt="GIF" src="gif.gif">
 </a>
 
 AI & Software Developer 👨‍💻
