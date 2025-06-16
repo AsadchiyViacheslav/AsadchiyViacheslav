@@ -1,8 +1,8 @@
 <div align="center">
    <h1 align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Hello GIF" style="width:30px; vertical-align:bottom;">
+      <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwOTQ1MjEsIm5iZiI6MTc1MDA5NDIyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE2VDE3MTcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMmUxYjFiYjZhYmFjODZhMDgyOTZhNjBiMWNlYTlhYmE4M2VkZDUwNWFiZGRjZWRmNmIwNTQ0MTVjNGJhZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Wm_1vKushIvsOlj4oqn202cVszvOkJUQgodhDKofIG8" alt="Hello GIF" style="width:40px; vertical-align:bottom;">
       Hello! I'm Viacheslav Asadchiy
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Hello GIF" style="width:30px; vertical-align:bottom;">
+      <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwOTQ1MjEsIm5iZiI6MTc1MDA5NDIyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE2VDE3MTcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzMmUxYjFiYjZhYmFjODZhMDgyOTZhNjBiMWNlYTlhYmE4M2VkZDUwNWFiZGRjZWRmNmIwNTQ0MTVjNGJhZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Wm_1vKushIvsOlj4oqn202cVszvOkJUQgodhDKofIG8" alt="Hello GIF" style="width:40px; vertical-align:bottom;">
    </h1>
 </div>
 
