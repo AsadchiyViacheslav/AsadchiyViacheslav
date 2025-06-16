@@ -7,17 +7,13 @@
 
 <br>
 
-<a target="_blank" align="center">
-  <img align="right" top = '300' height="200" width="180" alt="GIF" src="gif.gif">
-</a>
-
 AI & Software Developer 👨‍💻
 
 - 🎓 &nbsp;Currently studying **Software Engineering** at [**TUSUR**](https://tusur.ru/ru), Tomsk (Bachelor)
 
 - 🧠 &nbsp;Focusing on **Data Science**, **Backend Development**, and building solid engineering skills
 
-- 🌱 &nbsp;Passionate about **learning**, constantly exploring new technologies and concepts
+- 🌱 &nbsp;I really love **learning** and I'm not afraid of difficulties
 
 <br>
 
@@ -109,7 +105,7 @@ AI & Software Developer 👨‍💻
 
 ---
 
-<h2>☄️ Contact me</h2>
+<h2>Connect With Me🤝</h2>
 
 
   <p>✈️ &nbsp;<a href="https://t.me/salabeey"><strong>Telegram</strong></a></p>
