@@ -2,7 +2,6 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
    <h1 align="center">🙋‍♂️ Hello! I'm Viacheslav Asadchiy 🙋‍♂️</h1>
 </div>
-
 <br>
 
 AI & Software Developer 👨‍💻
