@@ -9,7 +9,7 @@ AI & Software Developer 👨‍💻
 
 - 🎓 &nbsp;Currently studying **Software Engineering** at [**TUSUR**](https://tusur.ru/ru), Tomsk (Bachelor)
 
-- 🧠 &nbsp;Focusing on **Data Science**, **Backend Development**, and building solid engineering skills
+- 🧠 &nbsp;Focusing on **Data Science**, **Software Development**, and building solid engineering skills
 
 - 🌱 &nbsp;I really love **learning** and I'm not afraid of difficulties
 
@@ -77,6 +77,10 @@ AI & Software Developer 👨‍💻
     <td align="center" width="110" height="90">
       <img src="https://matplotlib.org/_static/images/logo2.svg" width="36" height="36" alt="Matplotlib" />
       <br>Matplotlib
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://user-images.githubusercontent.com/70002987/122630299-38ae2a80-d088-11eb-83a1-e3b323a68941.png" width="36" height="36" alt="Numpy" />
+      <br>Numpy
     </td>
   </tr>
 </table>
